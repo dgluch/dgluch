@@ -1,4 +1,4 @@
-<a href="www.gluch.de/" target="_blank">
+<a href="https://www.gluch.de/" target="_blank">
         <img src="https://raw.githubusercontent.com/dgluch/dgluch/main/header.png" alt="Description of the image" height="100">
 </a>
 
