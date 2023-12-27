@@ -21,5 +21,8 @@ In our own R&D labs, we develop market analyses and comparative studies, support
 <a href="https://www.cvpage.de/gluch/daniel-gluch" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/cvpage2.png" alt="CV page" height=40/></a>
 
+<a href="https://huggingface.co/dgluch" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/huggingface.png" alt="CV page" height=40/></a>
+
  
 </p>
