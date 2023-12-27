@@ -6,7 +6,7 @@ Daniel Gluch holds a Dipl.-Ing. degree of the Univiersity of Applied Sciences in
 
 Connect with me:
 <p align="left">
-<a href="[https://www.cvpage.de/gluch/daniel-gluch](https://www.linkedin.com/in/danielgluch/)" target="_blank">
+<a href="https://www.linkedin.com/in/danielgluch/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/linkedin.png" alt="Linkedin" height=40 /></a>
   
 <a href="https://www.xing.com/profile/Daniel_Gluch" target="_blank">
