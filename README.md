@@ -10,19 +10,19 @@ In our own R&D labs, we develop market analyses and comparative studies, support
 <br>
 <p align="left">
         <a href="https://www.gluch.de" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/g.png" alt="Linkedin" height=40 /></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/images/gluch.png" alt="Linkedin" height=40 /></a>
         
 <a href="https://www.linkedin.com/in/danielgluch/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/linkedin.png" alt="Linkedin" height=40 /></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/images/linkedin.png" alt="Linkedin" height=40 /></a>
   
 <a href="https://www.xing.com/profile/Daniel_Gluch" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/xing.png" alt="Xing" height=40 /></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/images/xing.png" alt="Xing" height=40 /></a>
 
 <a href="https://www.cvpage.de/gluch/daniel-gluch" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/cvpage2.png" alt="CV page" height=40/></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/images/cvpage.png" alt="CV page" height=40/></a>
 
 <a href="https://huggingface.co/dgluch" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/huggingface.png" alt="CV page" height=40/></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/images/huggingface.png" alt="CV page" height=40/></a>
 
  
 </p>
