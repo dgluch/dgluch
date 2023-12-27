@@ -10,7 +10,7 @@ In our own R&D labs, we develop market analyses and comparative studies, support
 <br>
 <p align="left">
         <a href="https://www.gluch.de" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/gluch.png" alt="Linkedin" height=40 /></a>
+<img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/g.png" alt="Linkedin" height=40 /></a>
         
 <a href="https://www.linkedin.com/in/danielgluch/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/dgluch/dgluch/main/linkedin.png" alt="Linkedin" height=40 /></a>
